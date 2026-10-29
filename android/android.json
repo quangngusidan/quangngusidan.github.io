@@ -1,29 +1,28 @@
 {
     "allowedUids": [
-
-  {
+        {
             "uid": "96516cac3f1241edd78e7a0d2d36cb34",
             "expires": "2026-11-25"
         },
-				
-  {
+        {
             "uid": "a0cea009c997fc3379ace48bef8617d6",
             "expires": "2026-11-25"
-					},					
-  {
+        },
+        {
             "uid": "002b4c719cbe4bdef20a3577863ef3c2",
             "expires": "2026-11-25"
-					},
-		 {
+        },
+        {
             "uid": "b88cc8525683b9de02eff98d7da7f139",
             "expires": "2026-11-29"
-					},
-					{
+        },
+        {
             "uid": "bb0f9003e0e71a8ea82fcb7f19d7085f",
             "expires": "2027-11-29"
-						}
-				
-					
-    
+        },
+        {
+            "uid": "190C5C6E6060A3C767F008B487AE4CC9",
+            "expires": "2026-11-29"
+        }
     ]
-		}
+}
